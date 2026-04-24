@@ -1,0 +1,30 @@
+# AIMS KTT S2.T3.1 - AI Math Tutor for Early Learners
+# Dependencies for the project
+
+# Core
+numpy==1.24.3
+scipy==1.11.2
+
+# Speech Recognition & TTS
+openai-whisper==20231117
+piper-tts==1.2.0
+
+# LLM & Fine-tuning
+torch==2.0.1
+transformers==4.34.0
+peft==0.4.0
+bitsandbytes==0.41.0
+
+# Web Interface
+# streamlit==1.28.1
+# streamlit-webrtc
+librosa
+
+pydantic
+
+pytest
+black
+pylint
+
+huggingface_hub
+Pillow
